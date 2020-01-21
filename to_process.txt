@@ -1,0 +1,2 @@
+SRC_FOLDER;DEST_FOLDER
+/media/invocore/A2120839120814C7;/home/invocore/Projects/Utils/image_color_enhancement/DEST
